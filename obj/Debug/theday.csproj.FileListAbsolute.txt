@@ -1,0 +1,10 @@
+C:\Users\markp\source\repos\theday\bin\Debug\theday.exe.config
+C:\Users\markp\source\repos\theday\bin\Debug\theday.exe
+C:\Users\markp\source\repos\theday\bin\Debug\theday.pdb
+C:\Users\markp\source\repos\theday\obj\Debug\theday.csprojAssemblyReference.cache
+C:\Users\markp\source\repos\theday\obj\Debug\theday.theday.resources
+C:\Users\markp\source\repos\theday\obj\Debug\theday.Properties.Resources.resources
+C:\Users\markp\source\repos\theday\obj\Debug\theday.csproj.GenerateResource.cache
+C:\Users\markp\source\repos\theday\obj\Debug\theday.csproj.CoreCompileInputs.cache
+C:\Users\markp\source\repos\theday\obj\Debug\theday.exe
+C:\Users\markp\source\repos\theday\obj\Debug\theday.pdb
