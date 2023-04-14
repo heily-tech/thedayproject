@@ -1,0 +1,199 @@
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.exe.config
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.Form1.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.Properties.Resources.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\로그인.exe.config
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\로그인.exe
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\로그인.pdb
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.csproj.CopyComplete
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.exe
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.pdb
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.MainForm.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인\로그인\obj\Debug\로그인.user.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\로그인.exe.config
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\로그인.exe
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\로그인.pdb
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.exe.config
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.Form1.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.MainForm.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.Properties.Resources.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.user.resources
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.csproj.CopyComplete
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.exe
+C:\Users\user\Desktop\2학년\c언어\C#\로그인 (3)\로그인\obj\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\로그인.exe.config
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\로그인.exe
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\MySql.Data.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\Google.Protobuf.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\Zstandard.Net.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\BouncyCastle.Crypto.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\Ubiety.Dns.Core.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\Renci.SshNet.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\System.Buffers.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\K4os.Compression.LZ4.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\K4os.Hash.xxHash.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\System.Memory.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\System.Numerics.Vectors.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\bin\Debug\MySql.Data.xml
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.exe.config
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.Form1.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.MainForm.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.Properties.Resources.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.csproj.CopyComplete
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.exe
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인\로그인\obj\Debug\로그인.join.resources
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\로그인.exe.config
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\로그인.exe
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\로그인.pdb
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\로그인 - 복사본\로그인\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.exe.config
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.Form1.resources
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.MainForm.resources
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.Properties.Resources.resources
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.join.resources
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.csproj.CopyComplete
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.exe
+C:\Users\user\Desktop\로그인 - 복사본\로그인\obj\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\로그인.exe.config
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\로그인.exe
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\MySql.Data.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\Google.Protobuf.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\Zstandard.Net.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\BouncyCastle.Crypto.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\Ubiety.Dns.Core.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\Renci.SshNet.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\System.Buffers.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\K4os.Compression.LZ4.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\K4os.Hash.xxHash.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\System.Memory.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\System.Numerics.Vectors.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\bin\Debug\MySql.Data.xml
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.exe.config
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.Form1.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.Insert.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.MainForm.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.Properties.Resources.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.join.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.csproj.CopyComplete
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.exe
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\로그인 - 복사본\로그인\obj\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\로그인.exe.config
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\로그인.exe
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\로그인.pdb
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\MySql.Data.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\Google.Protobuf.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\Zstandard.Net.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\BouncyCastle.Crypto.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\Ubiety.Dns.Core.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\Renci.SshNet.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\System.Buffers.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\K4os.Compression.LZ4.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\K4os.Hash.xxHash.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\System.Memory.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\System.Numerics.Vectors.dll
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\bin\Debug\MySql.Data.xml
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.exe.config
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.Form1.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.Insert.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.MainForm.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.Properties.Resources.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.join.resources
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.csproj.CopyComplete
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.exe
+I:\2-CP-B\C 프로그래밍 실무\proj.theday\proj\200531 foundation - 윤주\로그인\obj\Debug\로그인.pdb
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\로그인.exe.config
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\로그인.exe
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\로그인.pdb
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\200601 TheDay\로그인\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.csprojAssemblyReference.cache
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.exe.config
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.Form1.resources
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.Insert.resources
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.MainForm.resources
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.Properties.Resources.resources
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.join.resources
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.csproj.GenerateResource.cache
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.csproj.CopyComplete
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.exe
+C:\Users\user\Desktop\200601 TheDay\로그인\obj\Debug\로그인.pdb

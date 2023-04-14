@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace theday
+namespace 로그인
 {
     static class Program
     {
@@ -13,7 +16,7 @@ namespace theday
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new theday());
+            Application.Run(new Form1());
         }
     }
 }
